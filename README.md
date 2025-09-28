@@ -123,7 +123,7 @@ graph TD
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-repo/TimeBomb.git
+git clone https://github.com/LilyKing6/TimeBomb
 cd TimeBomb
 
 # 2. 使用批处理脚本编译
@@ -139,7 +139,7 @@ tmb.exe 1                  # 静默模式
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-repo/TimeBomb.git
+git clone https://github.com/LilyKing6/TimeBomb
 cd TimeBomb
 
 # 2. 使用shell脚本编译
@@ -735,9 +735,9 @@ Copyright (C) 2024 Lily King. All Rights Reserved.
 ## 📞 技术支持
 
 - **邮箱**: lilyking0504@gmail.com
-- **GitHub**: [TimeBomb项目主页](https://github.com/g/TimeBomb)
-- **文档**: [在线文档](https://timebomb.readthedocs.io)
-- **问题反馈**: [Issue追踪](https://github.com/your-repo/TimeBomb/issues)
+- **GitHub**: [TimeBomb项目主页](https://github.com/LilyKing6/TimeBomb)
+- **文档**: [在线文档]()
+- **问题反馈**: [Issue追踪](https://github.com/LilyKing6/TimeBomb/issues)
 
 ---
 
